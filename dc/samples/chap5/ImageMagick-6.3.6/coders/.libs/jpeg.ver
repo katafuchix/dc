@@ -1,0 +1,4 @@
+{ global:
+RegisterJPEGImage;
+UnregisterJPEGImage;
+local: *; };

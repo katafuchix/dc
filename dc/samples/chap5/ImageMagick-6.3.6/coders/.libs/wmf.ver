@@ -1,0 +1,4 @@
+{ global:
+RegisterWMFImage;
+UnregisterWMFImage;
+local: *; };

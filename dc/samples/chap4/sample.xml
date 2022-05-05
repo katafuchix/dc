@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample>
+	<test1 attr1="attr1 value">
+		<content>content string1</content>
+		<content>content string2</content>
+	</test1>
+	<test2 attr2="attr2 value"></test2>
+</sample>

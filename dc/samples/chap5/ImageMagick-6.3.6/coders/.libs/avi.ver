@@ -1,0 +1,4 @@
+{ global:
+RegisterAVIImage;
+UnregisterAVIImage;
+local: *; };

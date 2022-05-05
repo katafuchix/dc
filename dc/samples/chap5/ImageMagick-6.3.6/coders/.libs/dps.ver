@@ -1,0 +1,4 @@
+{ global:
+RegisterDPSImage;
+UnregisterDPSImage;
+local: *; };

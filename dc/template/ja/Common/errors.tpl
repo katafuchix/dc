@@ -1,0 +1,1 @@
+{if count($errors)}<span style="color:{$errorcolor};">{foreach from=$errors item=error}{$error}<br />{/foreach}</span>{/if}
